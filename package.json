@@ -46,7 +46,7 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "3.4.1",
+    "@eslint/eslintrc": "3.0.1",
     "eslint": "^9.8.0",
     "eslint-config-next": "^15.1.4",
     "postcss": "^8",
