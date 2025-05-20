@@ -1,9 +1,10 @@
 "use server";
 
-import { db } from "@/lib/prisma";
+import { getDb } from "@/lib/prisma";
 import { auth } from "@clerk/nextjs/server";
 import { revalidatePath } from "next/cache";
 import { generateAIInsights } from "./dashboard";
+const db = getDb();
 
 export async function updateUser(data) {
   const { userId } = await auth();
