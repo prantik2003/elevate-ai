@@ -3,7 +3,7 @@ export const testimonial = [
     quote:
       "The AI-powered interview prep was a game-changer. Landed my dream job at a top tech company!",
     author: "Sarah Chen",
-    image: "https://i.pravatar.cc/400?img=25",
+    image: "https://i.pravatar.cc/150?img=25",
     role: "Software Engineer",
     company: "Tech Giant Co.",
   },
