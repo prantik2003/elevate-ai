@@ -3,7 +3,6 @@
 **ElevateAI** is a powerful web application designed to empower job seekers and career changers by providing AI-driven tools for career planning, resume building, and interview preparation.
 
 ---
----
 
 ## 🧠 Overview
 
@@ -17,13 +16,6 @@ ElevateAI helps users:
 
 ElevateAI combines **data-driven insights** with **AI-powered content generation** to elevate your career journey.
 
----
----
----
----
----
----
----
 ---
 
 ## ✨ Key Features
@@ -50,13 +42,6 @@ ElevateAI combines **data-driven insights** with **AI-powered content generation
 - View progress with performance graphs from all your past quizzes
 - Identify strengths and areas for improvement
 
----
----
----
----
----
----
----
 ---
 
 ## 🛠 Tech Stack
@@ -89,13 +74,6 @@ ElevateAI combines **data-driven insights** with **AI-powered content generation
 ### 📑 Document Generation
 - **PDF Export:** [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/)
 
----
----
----
----
----
----
----
 ---
 
 ### Make sure to create a `.env` file with following variables -
