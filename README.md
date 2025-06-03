@@ -4,6 +4,7 @@
 
 https://github.com/user-attachments/assets/30e8b7a3-f820-4fb7-b5ae-069ac5771ebf
 
+## Database Design
 ![elevateAI-db-design](https://github.com/user-attachments/assets/16c40ae5-78b5-4869-9040-244a4e2147be)
 
 ## 🧠 Overview
