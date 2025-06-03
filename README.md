@@ -92,7 +92,7 @@ Follow the steps below to install and run ElevateAI locally on your machine.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/prantik2003/elevate-ai.git
-cd elevateAI
+cd elevate-ai
 ```
 
 ### 2. Install Dependencies
