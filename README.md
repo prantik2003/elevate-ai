@@ -2,10 +2,7 @@
 
 **ElevateAI** is a powerful web application designed to empower job seekers and career changers by providing AI-driven tools for career planning, resume building, and interview preparation.
 
----
-# Demo 
 https://github.com/user-attachments/assets/30e8b7a3-f820-4fb7-b5ae-069ac5771ebf
----
 
 ## 🧠 Overview
 
