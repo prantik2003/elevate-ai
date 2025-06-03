@@ -16,8 +16,12 @@ ElevateAI helps users:
 
 ElevateAI combines **data-driven insights** with **AI-powered content generation** to elevate your career journey.
 
+---
+
 ## 🎥 Demo Video
 https://github.com/user-attachments/assets/30e8b7a3-f820-4fb7-b5ae-069ac5771ebf
+
+---
 
 ## ✨ Key Features
 
@@ -43,8 +47,12 @@ https://github.com/user-attachments/assets/30e8b7a3-f820-4fb7-b5ae-069ac5771ebf
 - View progress with performance graphs from all your past quizzes
 - Identify strengths and areas for improvement
 
+---
+
 ## 🛢️ Database Design
 ![elevateAI-db-design](https://github.com/user-attachments/assets/16c40ae5-78b5-4869-9040-244a4e2147be)
+
+---
 
 ## 🛠 Tech Stack
 
