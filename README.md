@@ -77,10 +77,24 @@ https://github.com/user-attachments/assets/30e8b7a3-f820-4fb7-b5ae-069ac5771ebf
 - **PDF Export:** [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/)
 
 ---
+## 🛠️ Installation & Setup
 
-### Make sure to create a `.env` file with following variables -
+Follow the steps below to install and run ElevateAI locally on your machine.
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/prantik2003/elevate-ai.git
+cd elevateAI
 ```
+
+### 2. Install Dependencies
+```bash
+npm install
+# or
+yarn install
+```
+### 3. Configure Environment Variables
+```bash
 DATABASE_URL=
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -93,3 +107,19 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
 GEMINI_API_KEY=
 ```
+### 4. Set Up the Database
+Run Prisma migrations:
+```bash
+npx prisma migrate dev
+```
+(Optional) Generate Prisma client:
+```bash
+npx prisma generate
+```
+### 5. Start the Development Server
+```bash
+npm run dev
+# or
+yarn dev
+```
+Visit the app in your browser at: http://localhost:3000
